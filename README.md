@@ -20,5 +20,5 @@ Filling up TheGraph Grants [Form](https://thegraph.typeform.com/applynow) takes 
     4. Past Work * This is the place to share where you've contributed (ie. Github), examples of your work, and anything else that's relevant!
     5. What timezone are you in?
 4. And that's it! Just a few more details and we'll have all the info we need. Can we get your email address?
-5. How did you hear about the grants program, 0xbe1? options...
+5. How did you hear about the grants program, 0xbe1?
 6. Anything else you'd like to share?
